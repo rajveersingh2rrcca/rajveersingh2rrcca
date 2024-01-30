@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 ##!>
 
-# 🔭 I’m currently working on a Final Project for CS50 X.
+#### 🔭 I’m currently working on a Final Project for CS50 X.
 # 🌱 I’m currently learning IT Operations, Data Analysis, Python, and other Web Developement languages.
 # 👯 I’m looking to collaborate on learning more about Software Developement.
 # 🤔 I’m looking for help with building skills required to land my first job in IT field. 
